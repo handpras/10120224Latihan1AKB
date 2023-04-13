@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">10120224Latihan1</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="tagline">Digital Together Everyone Achieve More</string>
+    <string name="jds">Jabar Digital Services</string>
+    <string name="name_person">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="jobdesk">UI Designer</string>
+    <string name="title">Jam Kerja Bulan Ini</string>
+    <string name="subtitle">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="waktu">130.53 JAM</string>
+    <string name="helper_text">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="reporting">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Booking">Booking</string>
+    <string name="Wiki">Wiki</string>
+    <!--NIM : 10120224
+    Nama : Hanung Dwi Prasetyo
+    Kelas : IF-6
+    Tanggal pengerjaan : 12 April 2023-->
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/jarak_2dp"/>
+    <solid android:color="@color/turquoise_green"/>
+</shape>
+
+    <!--NIM : 10120224
+        Nama : Hanung Dwi Prasetyo
+        Kelas : IF-6
+        Tanggal pengerjaan : 12 April 2023-->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    Warna di bawah ini diambil dari file Figma untuk latihan 1 -->
+    <color name="aqua_squeeze">#FFE6F6EC</color>
+    <color name="dark_jungle_green">#FF212121</color>
+    <color name="boulder">#FF757575</color>
+    <color name="yale_blue">#FF0D47A1</color>
+    <color name="la_salle_green">#FF008444</color>
+    <color name="bluish_green">#FF16A75C</color>
+<!--    <color name="mirage">#FF151920</color> opacity 50%-->
+    <color name="shamrock_green">#FF069550</color>
+    <color name="spruce">#FF006430</color>
+    <color name="pale_teal">#FF70CD94</color>
+    <color name="dark_seafoam">#FF1FB767</color>
+    <color name="surf_crest">#FFC3E9D0</color>
+    <color name="turquoise_green">#FF9BDBB3</color>
+    <color name="white_smoke">#FFF5F5F5</color>
+    <color name="charcoal_grey">#FF424242</color>
+    <color name="frame">#FAFAFA</color>
+</resources>
+    <!--NIM : 10120224
+        Nama : Hanung Dwi Prasetyo
+        Kelas : IF-6
+        Tanggal pengerjaan : 12 April 2023-->
